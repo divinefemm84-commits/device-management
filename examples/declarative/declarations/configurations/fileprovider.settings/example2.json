@@ -1,0 +1,14 @@
+{
+    "Type": "com.apple.configuration.fileprovider.settings",
+    "Identifier": "2A3B4C5D-6E7F-8A9B-0C1D-2E3F4A5B6C7D",
+    "ServerToken": "F1E2D3C4-B5A6-7890-ABCD-EF1234567890",
+    "Payload": {
+        "DesktopAndDocumentSync": {
+            "EnableSync": true,
+            "AllowedApps": [
+                "com.apple.iCloud",
+                "com.example.cloudapp"
+            ]
+        }
+    }
+}

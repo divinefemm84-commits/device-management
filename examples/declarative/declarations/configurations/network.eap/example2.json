@@ -1,0 +1,14 @@
+{
+    "Type": "com.apple.configuration.network.eap",
+    "Identifier": "2A3B4C5D-6E7F-8A9B-0C1D-2E3F4A5B6C7D",
+    "ServerToken": "F1E2D3C4-B5A6-7890-ABCD-EF1234567890",
+    "Payload": {
+        "EAPUUID": "B2C3D4E5-F6A7-8901-BCDE-F12345678901",
+        "AcceptEAPTypes": ["PEAP"],
+        "UserPasswordAssetReference": "64BF8F5C-8CFD-40AA-9082-A0B594D4E100",
+        "TLS": {
+            "TrustedServerNames": ["auth.example.com"],
+            "MinimumVersion": "1.2"
+        }
+    }
+}
